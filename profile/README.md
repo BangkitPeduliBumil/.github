@@ -4,9 +4,18 @@
 Peduli Bumil is a health application designed to help pregnant women monitor and maintain their health during pregnancy. This application offers key features such as gestational age tracker, pregnancy risk detection based on health parameters (height, weight, body temperature, blood pressure, blood sugar, age, and heart rate), as well as risk classification into High, Medium, Risk categories. or Low. In addition, Peduli Bumil provides informative articles, interactive chatbots to answer questions about pregnancy, and personal reminders regarding health. With this technology, the application supports pregnant women, especially in remote areas, to prevent complications, increase health understanding, and contribute to the Indonesian government's efforts to reduce maternal mortality.
 
 ## 📱 Application View
-| Halaman Login | Halaman Artikel | Risiko Kehamilan |
-|:---:|:---:|:---:|
-| ![Login](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) | ![Artikel](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) | ![Risiko](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) |
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/regis-portrait.png" width="200">
+  <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/login-portrait.png" alt="Halaman Login" alt="Halaman Artikel" width="200">
+     <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/form-user-portrait.png" alt="Halaman Risiko Kehamilan" width="200">
+  <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/home.png" alt="Halaman Risiko Kehamilan" width="200">
+  <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/form-prediksi.png" alt="Halaman Risiko Kehamilan" width="200">
+    <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/result.png" alt="Halaman Risiko Kehamilan" width="200">
+    <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/history.png" alt="Halaman Risiko Kehamilan" width="200">
+    <img src="https://github.com/BangkitPeduliBumil/asset/blob/ba8ca85a8650c0a2f232b1bef0c31e998f51abcc/chatbot.png" alt="Halaman Risiko Kehamilan" width="200">
+
+</div>
 
 
 ## 📱 Installation
