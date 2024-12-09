@@ -1,9 +1,28 @@
 # Bangkit Academy 2024 Capstone Team - C242-PS027
 
-## Peduli Bumil - Mentoring Pregnancy Application
+## 📖 Peduli Bumil - Mentoring Pregnancy Application
 Peduli Bumil is a health application designed to help pregnant women monitor and maintain their health during pregnancy. This application offers key features such as gestational age tracker, pregnancy risk detection based on health parameters (height, weight, body temperature, blood pressure, blood sugar, age, and heart rate), as well as risk classification into High, Medium, Risk categories. or Low. In addition, Peduli Bumil provides informative articles, interactive chatbots to answer questions about pregnancy, and personal reminders regarding health. With this technology, the application supports pregnant women, especially in remote areas, to prevent complications, increase health understanding, and contribute to the Indonesian government's efforts to reduce maternal mortality.
 
-## Capstone Team - C242-PS027
+## 📱 Application View
+| Halaman Login | Halaman Artikel | Risiko Kehamilan |
+|:---:|:---:|:---:|
+| ![Login](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) | ![Artikel](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) | ![Risiko](https://github.com/BangkitPeduliBumil/asset/blob/5ee4a472b7c8eafb9327fa6a560ae6a2a1ed3b2c/input-resiko.jpeg) |
+
+
+## 📱 Installation
+[Download the Application](https://drive.google.com/drive/folders/1dJPjlwCrxeqbRiAHrQB20nf-EcVZ400d?usp=sharing)
+
+## 📁 Repositories
+
+| Learning Paths         | Link            |
+|-------------------------|-----------------|
+| 🤖 Machine Learning    | [ML Repository](https://github.com/BangkitPeduliBumil/Machine-Learning.git) |
+| ☁️ Cloud Computing      | [CC Repository](https://github.com/BangkitPeduliBumil/cloud-computing.git) |
+| 📱 Mobile Development   | [MD Repository](https://github.com/BangkitPeduliBumil/mobdev.git)|
+
+
+
+## 🧑‍🤝‍🧑 Capstone Team - C242-PS027
 
 |  No. | Member                          | Student ID   | Learning Path        | GitHub            |
 |------|---------------------------------|--------------|----------------------|-------------------|
@@ -14,6 +33,8 @@ Peduli Bumil is a health application designed to help pregnant women monitor and
 |   5  | Muhammad Fadhil                 | C308B4KY2797 | :cloud: Cloud Computing      | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/Dedeuuw) |
 |   6  | Armiza Rahmaddion               | A265B4KY0663 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/ArmizaRahmaddion) |
 |   7  | Aisyah Dwi Syahputri            | A308B4KX0262 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/aisbatu) |
+
+
 
 <!--
 
