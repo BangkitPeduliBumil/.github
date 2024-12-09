@@ -7,13 +7,13 @@ Peduli Bumil is a health application designed to help pregnant women monitor and
 
 |  No. | Member                          | Student ID   | Learning Path        | GitHub            |
 |------|---------------------------------|--------------|----------------------|-------------------|
-|   1  | Muhamad Sahidul Akhfa           | M122B4KY2662 | :brain: Machine Learning     | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   2  | Farras Fajar Hadi               | M122B4KY1420 | :brain: Machine Learning     | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   3  | Irfan Al Falah                  | M265B4KY2001 | :brain: Machine Learning     | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   4  | Sarhan Pratama                  | C265B4KY4071 | :cloud: Cloud Computing      | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   5  | Muhammad Fadhil                 | C308B4KY2797 | :cloud: Cloud Computing      | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   6  | Armiza Rahmaddion               | A265B4KY0663 | :iphone: Mobile Development  | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
-|   7  | Aisyah Dwi Syahputri            | A308B4KX0262 | :iphone: Mobile Development  | ![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white) |
+|   1  | Muhamad Sahidul Akhfa           | M122B4KY2662 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/sahidoel) |
+|   2  | Farras Fajar Hadi               | M122B4KY1420 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/FajarHadi1) |
+|   3  | Irfan Al Falah                  | M265B4KY2001 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/irfanalfalah75) |
+|   4  | Sarhan Pratama                  | C265B4KY4071 | :cloud: Cloud Computing      | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/SarhanPratama) |
+|   5  | Muhammad Fadhil                 | C308B4KY2797 | :cloud: Cloud Computing      | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/Dedeuuw) |
+|   6  | Armiza Rahmaddion               | A265B4KY0663 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/ArmizaRahmaddion) |
+|   7  | Aisyah Dwi Syahputri            | A308B4KX0262 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/aisbatu) |
 
 <!--
 
