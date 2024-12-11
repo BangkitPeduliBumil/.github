@@ -46,8 +46,8 @@ Peduli Bumil is a health application designed to help pregnant women monitor and
 |   6  | Armiza Rahmaddion               | A265B4KY0663 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/ArmizaRahmaddion) |
 |   7  | Aisyah Dwi Syahputri            | A308B4KX0262 | :iphone: Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/aisbatu) |
 
-## 📸 Documentation
-![](https://github.com/BangkitPeduliBumil/asset/blob/13fa6ffe586309ff2a691960dabcebd38071a178/documentation.jpeg)
+## 📸 Team Composition
+![](https://github.com/BangkitPeduliBumil/asset/blob/b44b5f6a18c467862b1268262f2cabd904957dc1/team.png)
 
 <!--
 
