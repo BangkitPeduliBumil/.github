@@ -12,7 +12,7 @@ Peduli Bumil is a health application designed to help pregnant women monitor and
   <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/home.png" alt="Halaman Risiko Kehamilan" width="200">
   <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/form-prediksi.png" alt="Halaman Risiko Kehamilan" width="200">
     <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/result.png" alt="Halaman Risiko Kehamilan" width="200">
-    <img src="https://github.com/BangkitPeduliBumil/asset/blob/62468463660911a5a368fc428d44c001571390d1/history.png" alt="Halaman Risiko Kehamilan" width="200">
+    <img src="https://github.com/BangkitPeduliBumil/asset/blob/9c907749ac30a5a55c5ea819394f57d615514726/history.jpeg" alt="Halaman Risiko Kehamilan" width="200">
     <img src="https://github.com/BangkitPeduliBumil/asset/blob/ba8ca85a8650c0a2f232b1bef0c31e998f51abcc/chatbot.png" alt="Halaman Risiko Kehamilan" width="200">
 
 </div>
